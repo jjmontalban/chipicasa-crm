@@ -1,0 +1,78 @@
+# Copyright (C) 2024 jjmontalban
+# This file is distributed under the same license as the Chipicasa CRM plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chipicasa CRM 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/chipicasa-crm\n"
+"POT-Creation-Date: 2024-07-23T16:27:22+00:00\n"
+"PO-Revision-Date: 2024-07-23 18:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: chipicasa-crm\n"
+
+#. Plugin Name of the plugin
+msgid "Chipicasa CRM"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/jjmontalban/chipicasa-crm"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds metaboxes to the dashboard to show registered CPTs in the system."
+msgstr ""
+"Agrega metaboxes al tablero para mostrar los CPT registrados en el sistema."
+
+#. Author of the plugin
+msgid "jjmontalban"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jjmontalban.github.io"
+msgstr ""
+
+#: chipicasa-crm.php:20
+msgid ""
+"This plugin requires the \"Inmuebles\" plugin to be installed and active. "
+"Please install and activate the \"Inmuebles\" plugin before activating this "
+"plugin."
+msgstr ""
+"Este plugin requiere que el plugin \"Inmuebles\" esté instalado y activo. "
+"Instale y actívelo antes de activar este plugin."
+
+#: chipicasa-crm.php:21
+msgid "Chipicasa CRM Activation Error"
+msgstr "Error al activar el plugin"
+
+#: chipicasa-crm.php:45
+msgid "Latest %ss registered"
+msgstr "Últim@s %ss registrad@s"
+
+#: chipicasa-crm.php:127
+msgid "Demanda:"
+msgstr ""
+
+#: chipicasa-crm.php:128
+msgid "Inmueble:"
+msgstr ""
+
+#: chipicasa-crm.php:129
+msgid "Fecha:"
+msgstr ""
+
+#: chipicasa-crm.php:136
+msgid "No recent posts."
+msgstr "No hay entradas recientes."
+
+#: chipicasa-crm.php:140
+msgid "View all %ss"
+msgstr "Ver todo"
+
+#: chipicasa-crm.php:142
+msgid "The CPT \"%s\" is not registered."
+msgstr "El CPT \"%s\" no está registrado."
